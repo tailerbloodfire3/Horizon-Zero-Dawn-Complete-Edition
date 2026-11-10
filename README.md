@@ -203,4 +203,4 @@ This repository serves as the official landing page for Horizon Zero Dawn Comple
 **Get the most recent version of Horizon Zero Dawn Complete Edition today!**
 
 ---
-**Last updated:** 2026-11-10 03:58:29 UTC
+**Last updated:** 2026-11-10 12:28:27 UTC
